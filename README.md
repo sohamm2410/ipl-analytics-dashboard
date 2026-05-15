@@ -14,3 +14,16 @@ This project analyzes IPL cricket datasets using Python, Pandas, Matplotlib, and
 - Seaborn
 - Matplotlib
 - Streamlit
+- Plotly
+- Jupyter Notebook
+
+## Streamlit Dashboard
+
+Features:
+- Season Filters
+- Team Filters
+- Player Filters
+- Team Analysis
+- Player Analysis
+- Interactive Plotly Charts
+
