@@ -16,7 +16,8 @@ st.set_page_config(
 # LOAD DATA
 # =====================================================
 
-ipl = pd.read_csv("../data/ipl_clean.csv")
+
+ipl = pd.read_csv("data/ipl_clean.csv")
 
 # =====================================================
 # SIDEBAR
