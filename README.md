@@ -27,3 +27,8 @@ Features:
 - Player Analysis
 - Interactive Plotly Charts
 
+## Live Dashboard
+
+Streamlit App:
+https://ipl-analytics-dashboard-69ttnxbf93czy2smurcpdx.streamlit.app/
+
